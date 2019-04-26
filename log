@@ -1,0 +1,24 @@
+write my study and config experience.
+
+4-17
+vim can not open what is the problem?
+how to write python with vim?
+
+vim config - install vundle:
+1.git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+4-23
+1.git config user.name
+2.git config email.name
+3.ssh-keygen -t -c rsa
+4.cd ~/.ssh gedit id_rsa.pub
+5.add key in the internet
+6.ssh -T git@github.com 
+success?! then i can clone the repository.
+
+4-24
+DP
+what is the releationship between topo and DP?
+I figured out the LIS problem.
+how to install the anaconda?
+all failed!
